@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ple:home|Door43 (ple)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ple|d43-ple repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ple/archive/master.zip|d43-ple.zip]]
+
+**Recent Changes**
+{{changes>ns = ple}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ple|Ethnologue data]]
+
